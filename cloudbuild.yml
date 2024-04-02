@@ -1,5 +1,5 @@
 steps:   
-#Run DAST scan using OWASP ZAP in GCP DevSecOps Pipeline - modify
+#Run DAST scan using OWASP ZAP in GCP DevSecOps Pipeline
   - name: 'ubuntu'
     entrypoint: bash
     args: 
